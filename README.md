@@ -12,13 +12,17 @@
 
 after cloning this project, install npm_modules with:
 
+```sh
 npm install
+```
 
 ## Starting the project
 
 you can run the web version through typing:
 
+```sh
 npm run web
+```
 
 then going to localhost:8081;
 
